@@ -1,0 +1,4 @@
+#Sun Feb 11 16:48:33 EST 2018
+base.0=/home/dilip/StudioProjects/SimpleMessenger-dilipreddy610/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
